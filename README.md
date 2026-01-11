@@ -6,7 +6,7 @@
 
 <body>
 
-<h1>📏 Real-time Distance Measurement</h1>
+<h1>📏 Real-Time Finger Distance Measurement</h1>
 
 <p><b>OpenCV</b> | <b>MediaPipe</b> | <b>Computer Vision</b></p>
 
@@ -65,6 +65,11 @@ Once calibrated, the system prints pixels-per-cm and starts live distance measur
 <p>
 Demo video included in repository showing calibration and real-time finger distance tracking.
 </p>
+
+<video width="720" controls>
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 <h2>🚀 Applications</h2>
 <ul>
