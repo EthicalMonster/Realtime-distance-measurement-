@@ -6,7 +6,7 @@
 
 <body>
 
-<h1>📏 Real-Time Finger Distance Measurement</h1>
+<h1>📏 Real-Time Distance Measurement</h1>
 
 <p><b>OpenCV</b> | <b>MediaPipe</b> | <b>Computer Vision</b></p>
 
